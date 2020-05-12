@@ -1,4 +1,4 @@
-# go-json
+# go-json-test
 
 golangの諸々をjson parseしてみる
 
